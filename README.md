@@ -22,9 +22,3 @@
 * There you go, Project will start automatically and you can see the **console** at which port the project is started. (**default:** `http://localhost:8080/`)
 
 **Important Dependencies used:** `Spring Data JPA`, `Javax.mail`, `MySQL-DataBase`
-
-##### > Follow me on [LinkedIn](https://www.linkedin.com/in/ankitkhatriofficial)
-##### > Follow me on [Instagram](https://www.instagram.com/me_ankit_khatri)
-##### > Follow me on [Twitter](https://www.twitter.com/ankitkhatri0)
-##### > Add me on [`Telegram`] @ankitkhatriofficial
-
